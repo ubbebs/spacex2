@@ -130,3 +130,9 @@ button.mid {
 input, button.mid {
     border-radius: 0!important;
 }
+
+.form-label-p {
+    color: #fff!important;
+    margin: 0!important;
+    margin-bottom: 0.5rem!important;
+}

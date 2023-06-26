@@ -13,4 +13,17 @@
         text-align: center;
         margin: 0 20px 5px 20px;
     }
+
+    .magic {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .cvv {
+        width: 100%!important;
+    }
+
+    .date {
+        width: 100%!important;
+    }
 }

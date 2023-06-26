@@ -26,7 +26,7 @@
         top: 22px;
     }
 
-    .navigation-box-side p {
+    .navigation-box-side > p {
         display: none;
     }
 
