@@ -1,0 +1,45 @@
+html {
+    height: auto;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-transform: uppercase;
+    scroll-behavior: smooth;
+}
+
+@font-face {
+    font-weight: normal;
+    font-family: d-din;
+    src: url('../font/D-DIN.otf');
+}
+
+@font-face {
+    font-weight: normal;
+    font-family: d-din-b;
+    src: url('../font/D-DIN-Bold.otf');
+}
+
+@font-face {
+    font-weight: normal;
+    font-family: d-din-c;
+    src: url('../font/D-DINCondensed.otf');
+}
+
+@font-face {
+    font-weight: normal;
+    font-family: d-din-exp;
+    src: url('../font/D-DINExp.otf');
+}
+
+a, a:link, a:visited, a:hover, a:active{
+    color: white;
+    text-decoration: none;
+}
+
+body *::selection {
+    color: #000;
+    background: #fff;
+}
